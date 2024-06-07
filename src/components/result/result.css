@@ -1,0 +1,37 @@
+.main-box {
+  background-color: #181e27;
+  padding: 45px 40px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-box {
+  display: flex;
+  justify-content: center;
+}
+
+.rate {
+  text-align: center;
+  font-weight: 400;
+  font-size: 15px;
+  color: #fc7614;
+  background-color: #262e38;
+  padding: 4px 20px;
+  border-radius: 20px;
+  margin-top: 32px;
+}
+h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: white;
+  margin-top: 32px;
+}
+.thank {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+}
